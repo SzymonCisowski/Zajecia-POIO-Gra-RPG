@@ -1,0 +1,15 @@
+﻿  Testtt.cpp
+E:\Data\Pulpit\Tetris\Visual\Testtt\Testtt\Testtt.cpp(116,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+E:\Data\Pulpit\Tetris\Visual\Testtt\Testtt\Testtt.cpp(129,33): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+E:\Data\Pulpit\Tetris\Visual\Testtt\Testtt\Testtt.cpp(151,65): warning C4305: "=": obcięcie z "double" do "float"
+E:\Data\Pulpit\Tetris\Visual\Testtt\Testtt\Testtt.cpp(204,20): warning C4305: "=": obcięcie z "double" do "float"
+E:\Data\Pulpit\Tetris\Visual\Testtt\Testtt\Testtt.cpp(215,41): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+E:\Data\Pulpit\Tetris\Visual\Testtt\Testtt\Testtt.cpp(215,33): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+E:\Data\Pulpit\Tetris\Visual\Testtt\Testtt\Testtt.cpp(223,47): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+E:\Data\Pulpit\Tetris\Visual\Testtt\Testtt\Testtt.cpp(223,34): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Trwa generowanie kodu
+  1 of 87 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Testtt.vcxproj -> E:\Data\Pulpit\Tetris\Visual\Testtt\x64\Release\Testtt.exe

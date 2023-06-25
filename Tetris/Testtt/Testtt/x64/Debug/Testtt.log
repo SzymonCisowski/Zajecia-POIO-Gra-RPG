@@ -1,0 +1,10 @@
+﻿  Testtt.cpp
+E:\Data\Pulpit\Tetris\Visual\Testtt\Testtt\Testtt.cpp(95,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+E:\Data\Pulpit\Tetris\Visual\Testtt\Testtt\Testtt.cpp(108,33): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+E:\Data\Pulpit\Tetris\Visual\Testtt\Testtt\Testtt.cpp(130,65): warning C4305: "=": obcięcie z "double" do "float"
+E:\Data\Pulpit\Tetris\Visual\Testtt\Testtt\Testtt.cpp(164,20): warning C4305: "=": obcięcie z "double" do "float"
+E:\Data\Pulpit\Tetris\Visual\Testtt\Testtt\Testtt.cpp(175,41): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+E:\Data\Pulpit\Tetris\Visual\Testtt\Testtt\Testtt.cpp(175,33): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+E:\Data\Pulpit\Tetris\Visual\Testtt\Testtt\Testtt.cpp(183,47): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+E:\Data\Pulpit\Tetris\Visual\Testtt\Testtt\Testtt.cpp(183,34): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Testtt.vcxproj -> E:\Data\Pulpit\Tetris\Visual\Testtt\x64\Debug\Testtt.exe

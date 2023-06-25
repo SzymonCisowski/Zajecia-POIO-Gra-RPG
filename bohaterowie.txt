@@ -1,4 +1,0 @@
-Frodo 20 30 50 2 7
-Bilbo 60 25 15 3 8
-Gandalf 50 30 20 4 2
-Szymon 64 23 13 0 1 
